@@ -1,0 +1,7 @@
+{
+  "mailer" :{
+    "paths" : {
+      "history": "/var/www/mailer/history"
+    }
+  }
+}
